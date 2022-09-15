@@ -7,7 +7,8 @@ uses
   uBotGestor in 'uBotGestor.pas',
   UfrmPrincipal in 'UfrmPrincipal.pas' {frmPrincipal},
   UBotDao in 'UBotDao.pas' {BotDao: TDataModule},
-  NovoForm in 'NovoForm.pas' {Form1};
+  NovoForm in 'NovoForm.pas' {Form1},
+  UPALMEIRAS_NAO_TEM_MUNDIAL in 'UPALMEIRAS_NAO_TEM_MUNDIAL.pas';
 
 {$R *.res}
 

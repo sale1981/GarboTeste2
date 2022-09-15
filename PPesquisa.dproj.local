@@ -4,21 +4,23 @@
     <Transaction>2022/08/16 08:30:20.000.909,=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2022/08/16 08:32:04.000.308,=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
     <Transaction>2022/09/01 07:59:17.000.943,=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/09/01 08:21:25.000.391,C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.dfm=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
-    <Transaction>2022/09/01 08:21:25.000.391,C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.pas=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
-    <Transaction>2022/09/01 08:21:44.000.130,C:\Alessandro\whatsapp Pesquisa\PPesquisa.dproj=C:\Users\eder\Documents\Embarcadero\Studio\Projects\Project2.dproj</Transaction>
+    <Transaction>2022/09/01 08:21:25.000.391,C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.pas</Transaction>
+    <Transaction>2022/09/01 08:21:25.000.391,C:\Users\eder\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.dfm</Transaction>
+    <Transaction>2022/09/01 08:21:44.000.130,C:\Users\eder\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Alessandro\whatsapp Pesquisa\PPesquisa.dproj</Transaction>
     <Transaction>2022/09/01 08:46:57.000.853,=C:\Alessandro\whatsapp Pesquisa\uBotConversa.pas</Transaction>
     <Transaction>2022/09/01 08:46:57.000.865,=C:\Alessandro\whatsapp Pesquisa\uBotGestor.pas</Transaction>
     <Transaction>2022/09/01 08:47:16.000.778,C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.pas=</Transaction>
     <Transaction>2022/09/01 08:47:34.000.437,=C:\Alessandro\whatsapp Pesquisa\Unit1.pas</Transaction>
-    <Transaction>2022/09/01 08:54:46.000.006,C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.pas=C:\Alessandro\whatsapp Pesquisa\Unit1.pas</Transaction>
-    <Transaction>2022/09/01 08:54:46.000.006,C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.dfm=C:\Alessandro\whatsapp Pesquisa\Unit1.dfm</Transaction>
+    <Transaction>2022/09/01 08:54:46.000.006,C:\Alessandro\whatsapp Pesquisa\Unit1.pas=C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.pas</Transaction>
+    <Transaction>2022/09/01 08:54:46.000.006,C:\Alessandro\whatsapp Pesquisa\Unit1.dfm=C:\Alessandro\whatsapp Pesquisa\UfrmPrincipal.dfm</Transaction>
     <Transaction>2022/09/01 09:32:14.000.446,=C:\Alessandro\whatsapp Pesquisa\Unit1.pas</Transaction>
-    <Transaction>2022/09/01 09:33:27.000.125,C:\Alessandro\whatsapp Pesquisa\UBotDao.pas=C:\Alessandro\whatsapp Pesquisa\Unit1.pas</Transaction>
-    <Transaction>2022/09/01 09:33:27.000.125,C:\Alessandro\whatsapp Pesquisa\UBotDao.dfm=C:\Alessandro\whatsapp Pesquisa\Unit1.dfm</Transaction>
-    <Transaction>2022/09/15 09:37:57.173,=C:\Gitteste\sale1981\GarboTeste2\Unit1.pas</Transaction>
-    <Transaction>2022/09/15 09:38:13.366,C:\Gitteste\sale1981\GarboTeste2\NovoForm.dfm=C:\Gitteste\sale1981\GarboTeste2\Unit1.dfm</Transaction>
-    <Transaction>2022/09/15 09:38:13.366,C:\Gitteste\sale1981\GarboTeste2\NovoForm.pas=C:\Gitteste\sale1981\GarboTeste2\Unit1.pas</Transaction>
+    <Transaction>2022/09/01 09:33:27.000.125,C:\Alessandro\whatsapp Pesquisa\Unit1.dfm=C:\Alessandro\whatsapp Pesquisa\UBotDao.dfm</Transaction>
+    <Transaction>2022/09/01 09:33:27.000.125,C:\Alessandro\whatsapp Pesquisa\Unit1.pas=C:\Alessandro\whatsapp Pesquisa\UBotDao.pas</Transaction>
+    <Transaction>2022/09/15 09:37:57.000.173,=C:\Gitteste\sale1981\GarboTeste2\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 09:38:13.000.366,C:\Gitteste\sale1981\GarboTeste2\Unit1.dfm=C:\Gitteste\sale1981\GarboTeste2\NovoForm.dfm</Transaction>
+    <Transaction>2022/09/15 09:38:13.000.366,C:\Gitteste\sale1981\GarboTeste2\Unit1.pas=C:\Gitteste\sale1981\GarboTeste2\NovoForm.pas</Transaction>
+    <Transaction>2022/09/15 10:24:44.613,=C:\Gitteste\sale1981\GarboTeste2\Unit1.pas</Transaction>
+    <Transaction>2022/09/15 10:25:11.847,C:\Gitteste\sale1981\GarboTeste2\UPALMEIRAS_NAO_TEM_MUNDIAL.pas=C:\Gitteste\sale1981\GarboTeste2\Unit1.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
 		<NoProfile iOSSimulator="iPhone5"/>
