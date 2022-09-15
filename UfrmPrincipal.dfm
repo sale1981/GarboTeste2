@@ -1175,15 +1175,4 @@ object frmPrincipal: TfrmPrincipal
       0000000000000000000000000000000000000000000000000000}
     OnClick = sbWhatsClick
   end
-  object Inject1: TInject
-    InjectJS.AutoUpdateTimeOut = 10
-    Config.AutoStart = True
-    Config.AutoDelay = 1000
-    AjustNumber.LengthPhone = 8
-    AjustNumber.DDIDefault = 55
-    FormQrCodeType = Ft_Http
-    OnGetUnReadMessages = Inject1GetUnReadMessages
-    Left = 280
-    Top = 112
-  end
 end
