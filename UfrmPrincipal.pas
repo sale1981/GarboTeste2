@@ -60,8 +60,8 @@ var
  aText : string;
 begin
   ConversaAtual.Situacao := saEmAtendimento;
-  aText := aText + Inject1.Emoticons.LoiraNotebook +' *Parcial da Nossa pesquisa.* \n\n' ;
-  aText := aText + '*Parcial atual:* \n\n';
+  aText := aText + Inject1.Emoticons.LoiraNotebook +' *Parcial da Nossa pesquisa  .* \n\n' ;
+  aText := aText + '*Parcial atual :* \n\n';
   aText := aText + BotDao.ListaParcialpesquisa;
   EnviarMensagem(1,Atext, ExtractFilePath(Application.ExeName) + 'img\pesquisa.jpg');
 end;
