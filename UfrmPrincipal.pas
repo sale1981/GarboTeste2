@@ -27,6 +27,7 @@ type
     procedure EnviarMensagem(aEtapa :Integer; aTexto : string;aAnexo : string = '');
     procedure EnviarMenu_Resposta  (aResposta : string; AContato : string; AIDPesquisa : Integer);
     procedure EnviarAvisoRespostaInvalida;
+      
   end;
 
 var
