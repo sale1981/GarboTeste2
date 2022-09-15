@@ -1,0 +1,25 @@
+CREATE DATABASE `pesquisasql` /*!40100 DEFAULT CHARACTER SET utf8mb4 */;
+
+
+CREATE TABLE `pesquisasql`.`tbl_pesquisa` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `descricao` VARCHAR(255) NULL,
+  `data` DATETIME NULL,
+  `status` VARCHAR(1) NULL,
+  PRIMARY KEY (`id`));
+  
+  
+ CREATE TABLE `pesquisasql`.`tbl_voto` (
+  `id` INT NOT NULL AUTO_INCREMENT,
+  `id_pesquisa` INT NOT NULL,
+  `ruim` INT NULL,
+  `bom` INT NULL,
+  `otimo` INT NULL,
+  `contato` VARCHAR(45) NULL,
+  PRIMARY KEY (`id`));
+
+USE pesquisasql;
+
+/*Inserindo dados iniciais*/
+insert into tbl_pesquisa (descricao, data, status) values ('Qual a sua avaliação do curso de Direito em 2019?', '2020-02-04', 'T');
+insert into tbl_voto (id_pesquisa, ruim, bom, otimo, contato) values (1, 1, 1, 1, '558199999999@c.us'); 

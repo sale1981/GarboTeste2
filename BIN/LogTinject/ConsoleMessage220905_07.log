@@ -1,0 +1,252 @@
+
+[05/09/22 07:42:46]  Versao TInject: 3.5.0.0
+[05/09/22 07:42:46]  Versao  JS.ABR: 1.4.0.0
+[05/09/22 07:42:46]  Versao     CEF: 78.3.0
+[05/09/22 07:42:46]   
+[05/09/22 07:42:47 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'toDataURL' of undefined
+[05/09/22 07:42:51 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat?ED=CAwIBQ' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:42:55 - CONSOLE IGNORADO]  
+Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.
+[05/09/22 07:42:55 - CONSOLE IGNORADO]  
+Another connection wants to delete database 'wawc_db_enc'. Closing db now to resume the delete request.
+[05/09/22 07:42:58 - TResultQRCodeClass]  
+{
+  "result":
+  [
+      ]
+}
+
+[05/09/22 07:42:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:42:58 - CONSOLE IGNORADO]  
+Another connection wants to delete database 'wawc'. Closing db now to resume the delete request.
+[05/09/22 07:42:58 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'replace' of null
+[05/09/22 07:43:00 - CONSOLE IGNORADO]  
+Error: Minified React error #130; visit https://reactjs.org/docs/error-decoder.html?invariant=130&args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+[05/09/22 07:43:00 - CONSOLE IGNORADO]  
+Error: Minified React error #130; visit https://reactjs.org/docs/error-decoder.html?invariant=130&args[]=undefined&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.
+[05/09/22 07:43:00 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:43:07 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:43:17 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:43:27 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:43:37 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:43:47 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:43:57 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:07 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:17 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:27 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:44:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:45:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:08 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'getBatteryLevel' of undefined
+[05/09/22 07:46:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:32 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:46:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:46:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:08 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:18 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:28 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:38 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:48 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:47:58 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:48:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:19 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'getBatteryLevel' of undefined
+[05/09/22 07:49:19 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:29 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:39 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:49 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:49:59 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:50:04 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:50:09 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:50:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:50:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:50:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:50:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:51:50 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:00 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:10 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:20 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:30 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'getBatteryLevel' of undefined
+[05/09/22 07:52:30 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:40 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:52:51 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:01 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:11 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:21 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:31 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:36 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:53:41 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:53:51 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:01 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:11 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:21 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:31 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:41 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:54:51 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:01 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:11 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:21 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:31 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:41 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'getBatteryLevel' of undefined
+[05/09/22 07:55:41 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:55:51 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:01 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:12 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:22 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:32 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:42 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:56:52 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:02 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:08 - CONSOLE IGNORADO]  
+WebSocket connection to 'wss://web.whatsapp.com/ws/chat' failed: WebSocket is closed before the connection is established.
+[05/09/22 07:57:12 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:22 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:32 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:42 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:57:52 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:02 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:12 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:22 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:32 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:42 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:58:52 - CONSOLE IGNORADO]  
+Uncaught TypeError: Cannot read property 'getBatteryLevel' of undefined
+[05/09/22 07:58:52 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:02 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:12 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:23 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:33 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:43 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
+[05/09/22 07:59:53 - CONSOLE IGNORADO]  
+Uncaught ReferenceError: WAPI is not defined
